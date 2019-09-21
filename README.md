@@ -1,4 +1,4 @@
-# Kata Java
+# Kata Java [![CircleCI](https://circleci.com/gh/matchilling/kata-java.svg?style=svg)](https://circleci.com/gh/matchilling/kata-java)
 
 A code kata is an exercise in programming which helps a programmer hone their
 skills through practice and repetition. The term was probably first coined by
