@@ -12,4 +12,11 @@ pipeline {
             }
         }
     }
+
+    // Reporting test results
+    post {
+        always {
+            junit 'target/surefire-reports/*.xml'
+        }
+    }
 }
